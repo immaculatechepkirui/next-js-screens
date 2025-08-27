@@ -8,4 +8,4 @@ describe('Login Page', () => {
     expect(screen.getByPlaceholderText(/Email or Phone Number/i)).toBeInTheDocument();
     expect(screen.getByPlaceholderText(/Password/i)).toBeInTheDocument();
   });
-
+})
