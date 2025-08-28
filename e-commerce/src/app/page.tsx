@@ -1,4 +1,4 @@
-"use client"; // Required for client-side hooks
+"use client"; 
 
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
